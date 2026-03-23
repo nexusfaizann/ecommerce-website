@@ -98,6 +98,8 @@ ul li a{
     #k5 li{
         display: none;
         font-size: 2px;
+    }#home,#k3 h2{
+        margin-top: 100%;
     }
     
     
